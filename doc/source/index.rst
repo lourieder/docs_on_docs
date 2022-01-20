@@ -353,4 +353,3 @@ These steps are necessary to initialize a project repo enabling you to contribut
     select the “gate” label.
 
 24. XXX What happens now?
-
